@@ -1,0 +1,28 @@
+IDE = Integrated Development Environment
+Ex: Visual Studio Code! An environment used to develop programs with code!
+
+"Write Once, Run Anywhere"
+
+What is a Class - 
+A Class is a template (blueprint) from which objects are made. It defines properties (states) and behaviors (methods)
+
+What is an Object - 
+An Object is an instance of a class. You can build several houses from one blueprint. Each house has a different
+address, color, size, amount of rooms, etc.
+
+Four Pilars of OOP (object oriented programming):
+Encapsulation - Bundling data and methods that operate on that dats within a single unit (class) and restricting access
+Inheritance - A mechanism where a new class derives properties and characteristics from an existing class
+Polymorphism - The ability of an object to take on many forms; methods can do different things based on the object
+
+Basic Syntax: Anatomy of a Class
+
+1. Class Declaration: Every Java application must have at least one class definition.
+Ex: public class HelloWorld{
+
+}
+
+2. The Block Scope: Java uses curly braces {} to group statements togehter. Code inside the traces belongs to that class or methods
+
+
+
